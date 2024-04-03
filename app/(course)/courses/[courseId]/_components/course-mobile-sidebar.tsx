@@ -6,6 +6,7 @@ import {
   SheetContent,
   SheetTrigger
 } from "@/components/ui/sheet";
+// new
 
 import { CourseSidebar } from "./course-sidebar";
 // new commit
