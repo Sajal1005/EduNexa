@@ -8,6 +8,7 @@ import {
 } from "@/components/ui/sheet";
 
 import { CourseSidebar } from "./course-sidebar";
+// new commit
 
 interface CourseMobileSidebarProps {
   course: Course & {
